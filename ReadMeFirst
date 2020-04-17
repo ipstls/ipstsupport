@@ -1,0 +1,30 @@
+ขั้นตอนการติดตั้ง Line Chatbot
+1. ต้องเปลี่ยน Webhook PHP ที่ https://developers.line.biz/console/channel/1597854424/basic/ และ Fullfillment ของ Dialogflow
+2. ต้องแก้ที่ integrations ของ Dialogflow ด้วย โดยเอา Messaging API ไปใส่
+3. เอา Webhook Dialogflow ไปใส่ใน PHP
+4. เมื่อพิมพ์ระบบส่งจะข้อมูลมาที่ไฟล์นี้เพื่อตรวจสอบที่ PHP ก่อน
+   หากไม่พบจะส่งต่อไปยัง Webhook ของ Dialogflow
+   หากไม่พบที่ Dialogflow จะส่งกลับมาที่ PHP 
+   และดึงข้อมูลมาแสดงผลผ่านไลน์
+
+
+Add Friend and QR Code
+http://line.me/ti/p/~@842brdyw
+
+Line Account มาจากเมล์เราเป็นหลัก แต่มอบสิทธิ์ได้
+
+Webhook Dialogflow
+https://bots.dialogflow.com/line/842b28ac-b26d-411d-935c-55b7e3855b45/webhook
+
+
+Gmail
+U: learningspace.ipst@gmail.com
+P: ipst1234
+
+Heroku
+U: learningspace.ipst@gmail.com
+P: wvrugvlmu@2563
+
+Github
+U: ipstls
+P: wvrugvlmu@2563
