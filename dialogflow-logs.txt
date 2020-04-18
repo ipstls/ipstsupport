@@ -1,0 +1,10 @@
+[
+    "X-Line-Signature:ELdj5U4XW36LMhGFcnvMdBpqO4EQZx1JhsVQHTsO95A=",
+    "Content-Type:application\/json; charset=utf-8",
+    "content-length:308",
+    "host:bots.dialogflow.com",
+    "accept:*\/*",
+    "user-agent:LineBotWebhook\/1.0",
+    "X-Forwarded-Proto:https",
+    "X-Forwarded-For:147.92.150.194"
+]

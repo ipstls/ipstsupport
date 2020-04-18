@@ -8,7 +8,7 @@ function callDialogFlow(){
     foreach($headers as $k=>$v){
         $json_headers[]=$k.":".$v;
     }
-    file_put_contents('test.txt',json_encode($json_headers, JSON_PRETTY_PRINT)); 
+    file_put_contents('dialogflow-logs.txt',json_encode($json_headers, JSON_PRETTY_PRINT)); 
     $inputJSON = file_get_contents('php://input');
     $ch = curl_init();
     curl_setopt( $ch, CURLOPT_URL, $url);
