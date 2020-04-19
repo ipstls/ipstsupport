@@ -1,8 +1,9 @@
 ขั้นตอนการติดตั้ง Line Chatbot
 1. ต้องเปลี่ยน Webhook PHP ที่ https://developers.line.biz/console/channel/1597854424/basic/ และ Fullfillment ของ Dialogflow
-2. ต้องแก้ที่ integrations ของ Dialogflow ด้วย โดยเอา Messaging API ไปใส่
-3. เอา Webhook Dialogflow ไปใส่ใน PHP
-4. เมื่อพิมพ์ระบบส่งจะข้อมูลมาที่ไฟล์นี้เพื่อตรวจสอบที่ PHP ก่อน
+2. ต้องแก้ที่ Integrations ของ Dialogflow ด้วย โดยเอา Messaging API ไปใส่
+3. เอา Webhook จาก Line มาใส่ใน Fullfillment ของ Dialogflow
+4. เอา Webhook จาก Dialogflow ไปใส่ใน PHP
+5. เมื่อพิมพ์ระบบส่งจะข้อมูลมาที่ไฟล์นี้เพื่อตรวจสอบที่ PHP ก่อน
    หากไม่พบจะส่งต่อไปยัง Webhook ของ Dialogflow
    หากไม่พบที่ Dialogflow จะส่งกลับมาที่ PHP 
    และดึงข้อมูลมาแสดงผลผ่านไลน์

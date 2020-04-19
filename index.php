@@ -40,6 +40,7 @@ if($messageType == 'text'){
     case "OtherTypeConfirm":  
         $wait = "ระบบกำลังส่งอีเมลไปยังผู้ที่เกี่ยวข้องเรียบร้อยแล้ว เจ้าหน้าที่จะแจ้งข้อมูลผ่านทางอีเมลเท่านั้น ขอบคุณครับ";
         sendAlert($wait, $token, $userId);
+        sendEmail();
         break;
     default:
         callDialogFlow();

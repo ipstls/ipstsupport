@@ -32,4 +32,15 @@ function getContent($datas){
     return $datasReturn;
 }
 
+// ส่งอีเมลไปยังปลายทาง
+function sendEmail(){
+  $emailto = 'cartoon_toon29@hotmail.com';
+  $subject = '111';
+  $header .= "Content-type: text/html; charset=utf-8\n";
+  $header .= "from: 222 E-mail : 333";
+  $messages.= "4444"; 
+  $messages.= "จาก 555"; 
+  $send_mail = mail($emailto,$subject,$messages,$header);
+}
+
 ?>
