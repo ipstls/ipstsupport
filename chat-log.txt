@@ -17,3 +17,4 @@
 {"events":[{"type":"message","replyToken":"74d94adc3f56495e932a91ef1f6daadc","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587225316815,"mode":"active","message":{"type":"text","id":"11810755952409","text":"แสดงหัวข้อคำถาม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
 {"events":[{"type":"message","replyToken":"c182d6ee4a804ff1af4a2944515a52e4","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587225321228,"mode":"active","message":{"type":"text","id":"11810756252837","text":"ปัญหาด้านอื่น"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
 {"events":[{"type":"message","replyToken":"f661fd86e3204508b7decab578dde75c","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587225326630,"mode":"active","message":{"type":"text","id":"11810756611344","text":"สสส"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+
