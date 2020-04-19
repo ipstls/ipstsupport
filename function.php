@@ -34,13 +34,36 @@ function getContent($datas){
 
 // ส่งอีเมลไปยังปลายทาง
 function sendEmail(){
-  $emailto = 'cartoon_toon29@hotmail.com';
-  $subject = '111';
-  $header .= "Content-type: text/html; charset=utf-8\n";
-  $header .= "from: 222 E-mail : 333";
-  $messages.= "4444"; 
-  $messages.= "จาก 555"; 
-  $send_mail = mail($emailto,$subject,$messages,$header);
+    $htmlbody = 'แสดงเนื้อหาเมลเป็นแบบ <b>html</b>';
+    
+    $Mailer = new \PHPMailer\PHPMailer\PHPMailer(true);
+    
+    try {
+        $Mailer->SMTPDebug = 4;
+        // smtp authentication data.
+        $Mailer->isSMTP();
+        $Mailer->SMTPSecure = 'tls';
+        $Mailer->Port = 587;
+        $Mailer->SMTPAuth = true;
+        $Mailer->Host = 'smtp.gmail.com';
+        $Mailer->Username = 'learningspace.ipst@gmail.com';
+        $Mailer->Password = 'ipst1234';
+        // sender and receipient.
+        $Mailer->setFrom('cartoon_toon29@hotmail.com');
+        $Mailer->addAddress('cartoon_toon29@hotmail.com');
+        // $Mailer->addAddress('name2@domain.tld');
+        // subject and content.
+        $Mailer->isHTML(true);
+        $Mailer->CharSet = 'utf-8';
+        $Mailer->Subject = 'หัวข้ออีเมลภาษาใดๆก็อ่านได้';
+        $Mailer->Body = $htmlbody;
+        $Mailer->AltBody = 'ข้อความสำหรับผู้รับที่อ่านได้แต่อีเมลแบบ text อย่างเดียว';
+        // send it.
+        $Mailer->send();
+        echo 'Message has been sent.';
+    } catch (\Exception $e) {
+        echo 'Message could not be sent. Mailer Error: ', $Mailer->ErrorInfo;
+    }
 }
 
 ?>

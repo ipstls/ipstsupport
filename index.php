@@ -5,6 +5,7 @@
 
 date_default_timezone_set("Asia/Bangkok");
 header("content-type:text/javascript;charset=utf-8");  
+require_once 'vendor/autoload.php';
 include "crud.php";
 include "linemessage.php";
 include "function.php";
