@@ -590,3 +590,182 @@
   },
   "session": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837"
 }
+{
+  "events": [
+    {
+      "replyToken": "00000000000000000000000000000000",
+      "type": "message",
+      "timestamp": 1587270497207,
+      "source": {
+        "type": "user",
+        "userId": "Udeadbeefdeadbeefdeadbeefdeadbeef"
+      },
+      "message": {
+        "id": "100001",
+        "type": "text",
+        "text": "Hello, world"
+      }
+    },
+    {
+      "replyToken": "ffffffffffffffffffffffffffffffff",
+      "type": "message",
+      "timestamp": 1587270497207,
+      "source": {
+        "type": "user",
+        "userId": "Udeadbeefdeadbeefdeadbeefdeadbeef"
+      },
+      "message": {
+        "id": "100002",
+        "type": "sticker",
+        "packageId": "1",
+        "stickerId": "1"
+      }
+    }
+  ]
+}
+
+{"events":[{"type":"message","replyToken":"ab5d3ad948ff40908eaa1cddcf7fcb9a","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587270503819,"mode":"active","message":{"type":"text","id":"11813210391795","text":"แสดงหัวข้อคำถาม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"f511690f2a4d4a368b92f05b1149f2ea","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587270509947,"mode":"active","message":{"type":"text","id":"11813210813638","text":"ปัญหาด้านอื่น"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"3707b09c491d4bd48a39334bb24f6909","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587270514964,"mode":"active","message":{"type":"text","id":"11813211170942","text":"hhh"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"f2f6c29e8b3740b5bee66ec434952942","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587270517766,"mode":"active","message":{"type":"text","id":"11813211363374","text":"pppp"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"4fbc5343470245d09f23cd33b14b5abe","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587270520544,"mode":"active","message":{"type":"text","id":"11813211556436","text":"xxxx"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"621f5751838c41438863c1579f575d50","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587270523788,"mode":"active","message":{"type":"text","id":"11813211782577","text":"ยืนยัน"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{
+  "responseId": "293d81af-bb72-4442-a63d-00946ac1b715-a14fa99c",
+  "queryResult": {
+    "queryText": "ยืนยัน",
+    "action": "OtherTypeConfirm",
+    "parameters": {
+      "showperson": {
+        "name": "hhh"
+      },
+      "showemail": "pppp",
+      "showdetail": "xxxx"
+    },
+    "allRequiredParamsPresent": true,
+    "outputContexts": [{
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/s1-4-othertype-getemail-followup",
+      "parameters": {
+        "setEmail": "pppp",
+        "setEmail.original": "pppp",
+        "setDetail": "xxxx",
+        "setDetail.original": "xxxx",
+        "showperson": {
+          "name": "hhh"
+        },
+        "showperson.original": "hhh",
+        "showemail": "pppp",
+        "showemail.original": "pppp",
+        "showdetail": "xxxx",
+        "showdetail.original": "xxxx"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/s1-4-othertype-getdetail-followup",
+      "lifespanCount": 1,
+      "parameters": {
+        "setDetail": "xxxx",
+        "setDetail.original": "xxxx",
+        "showperson": {
+          "name": "hhh"
+        },
+        "showperson.original": "hhh",
+        "showemail": "pppp",
+        "showemail.original": "pppp",
+        "showdetail": "xxxx",
+        "showdetail.original": "xxxx"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/person",
+      "parameters": {
+        "setPerson": {
+          "name": "hhh"
+        },
+        "setPerson.original": "hhh",
+        "setEmail": "pppp",
+        "setEmail.original": "pppp",
+        "setDetail": "xxxx",
+        "setDetail.original": "xxxx",
+        "showperson": {
+          "name": "hhh"
+        },
+        "showperson.original": "hhh",
+        "showemail": "pppp",
+        "showemail.original": "pppp",
+        "showdetail": "xxxx",
+        "showdetail.original": "xxxx"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/detail",
+      "parameters": {
+        "setDetail": "xxxx",
+        "setDetail.original": "xxxx",
+        "showperson": {
+          "name": "hhh"
+        },
+        "showperson.original": "hhh",
+        "showemail": "pppp",
+        "showemail.original": "pppp",
+        "showdetail": "xxxx",
+        "showdetail.original": "xxxx"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/email",
+      "parameters": {
+        "setEmail": "pppp",
+        "setEmail.original": "pppp",
+        "setDetail": "xxxx",
+        "setDetail.original": "xxxx",
+        "showperson": {
+          "name": "hhh"
+        },
+        "showperson.original": "hhh",
+        "showemail": "pppp",
+        "showemail.original": "pppp",
+        "showdetail": "xxxx",
+        "showdetail.original": "xxxx"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/__system_counters__",
+      "parameters": {
+        "no-input": 0.0,
+        "no-match": 0.0,
+        "showperson": {
+          "name": "hhh"
+        },
+        "showperson.original": "hhh",
+        "showemail": "pppp",
+        "showemail.original": "pppp",
+        "showdetail": "xxxx",
+        "showdetail.original": "xxxx"
+      }
+    }],
+    "intent": {
+      "name": "projects/ipstsupport-xgsgyb/agent/intents/42ccecb0-4a62-4b1b-81b7-e6538a9735d7",
+      "displayName": "S1-4-OtherType-getDetail - yes"
+    },
+    "intentDetectionConfidence": 1.0,
+    "languageCode": "th"
+  },
+  "originalDetectIntentRequest": {
+    "source": "line",
+    "payload": {
+      "data": {
+        "source": {
+          "type": "user",
+          "userId": "U267c3ab8e5323fbc932182923e0b6770"
+        },
+        "type": "message",
+        "message": {
+          "text": "ยืนยัน",
+          "type": "text",
+          "id": "11813211782577"
+        },
+        "replyToken": "621f5751838c41438863c1579f575d50",
+        "timestamp": "1587270523788"
+      }
+    }
+  },
+  "session": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837"
+}
+{"events":[{"type":"message","replyToken":"d6048e3e9a12493aae5fae64e2d6eab9","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587270536378,"mode":"active","message":{"type":"text","id":"11813212659174","text":"cccsssp"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"4f20302c171e4aea94aae28c7e9779ac","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587270544722,"mode":"active","message":{"type":"text","id":"11813213243953","text":"ksnsjesjs"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
