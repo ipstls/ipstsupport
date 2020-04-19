@@ -1,16 +1,10 @@
 [
-    "Host:localhost",
-    "Connection:keep-alive",
-    "Upgrade-Insecure-Requests:1",
-    "User-Agent:Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/80.0.3987.163 Safari\/537.36",
-    "Sec-Fetch-Dest:document",
-    "Accept:text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/webp,image\/apng,*\/*;q=0.8,application\/signed-exchange;v=b3;q=0.9",
-    "Sec-Fetch-Site:same-origin",
-    "Sec-Fetch-Mode:navigate",
-    "Sec-Fetch-User:?1",
-    "Referer:http:\/\/localhost\/5.5\/",
-    "Accept-Encoding:gzip, deflate, br",
-    "Accept-Language:th,en;q=0.9",
-    "Cookie:_ga=GA1.1.2060332964.1576401964; remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d=eyJpdiI6IndnMVkya25ET2FpU3dCbitSd1doVFE9PSIsInZhbHVlIjoiUDUrYXUzVmxFZWhmRFI0QjArQ2M1RVlRM2ZINkFGMFBaem5YMkFpdUx2S2tLVUY0a3JlSmRqSzlSQjJDcWlsK0FOMXdDaWdla3lZN05JdE5qRGpNNmFVSTI1YzlCcldyYmk5bnlRTTR1ZzJ5KzBBNG5QVlwvTXNIQVlDaWo1a3FwWFJxVnJCN3p2U1ZRWmYyVmtJNlNjd1VFQlltK2c0bWRxS0w5NjArNVljVT0iLCJtYWMiOiJkYzM1OWU3YzgzMTg2OGI4MGM2M2IyMTY4Y2UzNjgyN2VmNTU3YjU0NzVlNTllOTFhMWE1OTYwMTVkOTI0ZGUzIn0%3D; trc_cookie_storage=taboola%2520global%253Auser-id%3D36009d6f-f533-43c9-a39e-9468d3d06c7e-tuct4ec8b93; pmaUser-1=%7B%22iv%22%3A%22VUftEF1pgGQVdOrIwvJliQ%3D%3D%22%2C%22mac%22%3A%225e522ef19f98bcc2b8b9810ddfe9f5262475ca28%22%2C%22payload%22%3A%22L4zutDy4WU%2BDGLnbYAUGHg%3D%3D%22%7D",
-    "host:bots.dialogflow.com"
+    "X-Line-Signature:0A5ovaQi2MEn7mEVSY5qSgPXGEHj+saXMzyjBWAFpXc=",
+    "Content-Type:application\/json; charset=utf-8",
+    "content-length:317",
+    "host:bots.dialogflow.com",
+    "accept:*\/*",
+    "user-agent:LineBotWebhook\/1.0",
+    "X-Forwarded-Proto:https",
+    "X-Forwarded-For:147.92.150.194"
 ]

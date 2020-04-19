@@ -33,11 +33,11 @@ function getContent($datas){
 }
 
 // ส่งอีเมลไปยังปลายทาง
-function sendEmail(){
+function sendEmail($person, $email, $detail){
   
     require_once 'vendor/autoload.php';
 
-    $htmlbody = 'แสดงเนื้อหาเมลเป็นแบบ <b>html</b>';
+    $htmlbody = 'แจ้งปัญหาโดย '.$person.' อีเมลสำหรับติดต่อกลับ '.$email.' รายละเอียดของปัญหา'.$detail;
     
     $Mailer = new \PHPMailer\PHPMailer\PHPMailer(true);
     
@@ -54,18 +54,17 @@ function sendEmail(){
         // sender and receipient.
         $Mailer->setFrom('cartoon_toon29@hotmail.com');
         $Mailer->addAddress('cartoon_toon29@hotmail.com');
-        // $Mailer->addAddress('name2@domain.tld');
         // subject and content.
         $Mailer->isHTML(true);
         $Mailer->CharSet = 'utf-8';
-        $Mailer->Subject = 'หัวข้ออีเมลภาษาใดๆก็อ่านได้';
+        $Mailer->Subject = 'สอบถามโดย '.$person;
         $Mailer->Body = $htmlbody;
-        $Mailer->AltBody = 'ข้อความสำหรับผู้รับที่อ่านได้แต่อีเมลแบบ text อย่างเดียว';
+        // $Mailer->AltBody = 'ข้อความสำหรับผู้รับที่อ่านได้แต่อีเมลแบบ text อย่างเดียว';
         // send it.
         $Mailer->send();
-        echo 'Message has been sent.';
+        // echo 'Message has been sent.';
     } catch (\Exception $e) {
-        echo 'Message could not be sent. Mailer Error: ', $Mailer->ErrorInfo;
+        // echo 'Message could not be sent. Mailer Error: ', $Mailer->ErrorInfo;
     }
 }
 

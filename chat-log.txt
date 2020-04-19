@@ -1,20 +1,592 @@
-{"events":[{"type":"message","replyToken":"6f17cce633d94694a7337f93d2559b06","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587221871430,"mode":"active","message":{"type":"text","id":"11810499494423","text":"แสดงหัวข้อคำถาม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
-{"events":[{"type":"message","replyToken":"df664112643d4c71902d8498bbea9e9c","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587222420305,"mode":"active","message":{"type":"text","id":"11810543755928","text":"a"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
-{"events":[{"type":"message","replyToken":"8f435c3ab7e44d63bdabfde02c6d7f69","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587222456716,"mode":"active","message":{"type":"text","id":"11810546666952","text":"แสดงหัวข้อคำถาม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
-{"events":[{"type":"message","replyToken":"d3d6545512cc4cc5ab20a60aa08805d7","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587222456722,"mode":"active","message":{"type":"text","id":"11810546668709","text":"แสดงหัวข้อคำถาม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
-{"events":[{"type":"message","replyToken":"9d93bab1314f4e338d31ccdad1f32a63","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587222509046,"mode":"active","message":{"type":"text","id":"11810550815786","text":"แสดงหัวข้อคำถาม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
-{"events":[{"type":"message","replyToken":"a610f1df2ac942aa8d8af2537b3384ae","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587222556245,"mode":"active","message":{"type":"text","id":"11810554554927","text":"แสดงหัวข้อคำถาม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
-{"events":[{"type":"message","replyToken":"8db5c48c2385400ba6f3b592d1dba697","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587225091466,"mode":"active","message":{"type":"text","id":"11810740651653","text":"แสดงหัวข้อคำถาม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
-{"events":[{"type":"message","replyToken":"d353d070a80a4e49b86da88194009668","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587225096189,"mode":"active","message":{"type":"text","id":"11810740971178","text":"ไม่ได้รับอีเมลยืนยัน"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
-{"events":[{"type":"message","replyToken":"77ebdfa7432a415fa74f2b38f4cd5f7a","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587225101531,"mode":"active","message":{"type":"text","id":"11810741339195","text":"ตรวจสอบแล้ว"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
-{"events":[{"type":"message","replyToken":"8532c5aa3d4d4feea6c374d4b5e9106a","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587225111651,"mode":"active","message":{"type":"text","id":"11810742036005","text":"แสดงหัวข้อคำถาม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
-{"events":[{"type":"message","replyToken":"6f639d574aa74f299cda8a286bf7f25f","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587225143217,"mode":"active","message":{"type":"text","id":"11810744185276","text":"แสดงหัวข้อคำถาม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
-{"events":[{"type":"message","replyToken":"dcecd9d141394ce28fa212974d6d4a3d","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587225156821,"mode":"active","message":{"type":"text","id":"11810745112083","text":"ปัญหาด้านอื่น"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
-{"events":[{"type":"message","replyToken":"7d535e043d4e45aa983c04899ab3baa4","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587225177343,"mode":"active","message":{"type":"text","id":"11810746511884","text":"สุกร จันสุข"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
-{"events":[{"type":"message","replyToken":"c8fa87dc77cd44a1933383ab2bd37376","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587225201216,"mode":"active","message":{"type":"text","id":"11810748129424","text":"cartoon_toon29@hotmail.com"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
-{"events":[{"type":"message","replyToken":"7471b8cebc7d472d8c49a0ed3057ea1e","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587225215706,"mode":"active","message":{"type":"text","id":"11810749103135","text":"ไม่สามารถเข้าสู่ระบบได้"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
-{"events":[{"type":"message","replyToken":"ae2c63a62ee8460d9d4584ed94a4c1d0","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587225225854,"mode":"active","message":{"type":"text","id":"11810749798709","text":"ยืนยัน"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
-{"events":[{"type":"message","replyToken":"74d94adc3f56495e932a91ef1f6daadc","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587225316815,"mode":"active","message":{"type":"text","id":"11810755952409","text":"แสดงหัวข้อคำถาม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
-{"events":[{"type":"message","replyToken":"c182d6ee4a804ff1af4a2944515a52e4","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587225321228,"mode":"active","message":{"type":"text","id":"11810756252837","text":"ปัญหาด้านอื่น"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
-{"events":[{"type":"message","replyToken":"f661fd86e3204508b7decab578dde75c","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587225326630,"mode":"active","message":{"type":"text","id":"11810756611344","text":"สสส"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
-
+{"events":[{"type":"message","replyToken":"79fd9c71f2c4489ea0ae15300daea2f0","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587268593759,"mode":"active","message":{"type":"text","id":"11813074163219","text":"แสดงหัวข้อคำถาม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"7ae28f4d34fc4f6dbe7b542696a60f16","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587268607043,"mode":"active","message":{"type":"text","id":"11813075093042","text":"แสดงหัวข้อคำถาม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"47f9ebd949d64fa98f5b70c5154aee8a","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587268610783,"mode":"active","message":{"type":"text","id":"11813075343704","text":"ปัญหาด้านอื่น"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"ec29f91dcc3c4c938bdde521be888124","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587268616715,"mode":"active","message":{"type":"text","id":"11813075761958","text":"ตูน เกม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"fd94df88fbc5443bb92c226fb7c4add8","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587268628363,"mode":"active","message":{"type":"text","id":"11813076580387","text":"cartoon_toon729@hotmail"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"ebe9aab77e1e4889b5d32a907ab1173f","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587268636794,"mode":"active","message":{"type":"text","id":"11813077168758","text":"เข้าเรียนไม่ได้"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"8881306890f74e5584e84102afa07cc0","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587268640957,"mode":"active","message":{"type":"text","id":"11813077460335","text":"ยืนยัน"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{
+  "responseId": "c929618c-e723-498c-8b6d-d3443c7338a6-a14fa99c",
+  "queryResult": {
+    "queryText": "ยืนยัน",
+    "action": "OtherTypeConfirm",
+    "parameters": {
+      "showperson": {
+        "name": "ตูน"
+      },
+      "showemail": "cartoon_toon729@hotmail",
+      "showdetail": "เข้าเรียนไม่ได้"
+    },
+    "allRequiredParamsPresent": true,
+    "outputContexts": [{
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/s1-4-othertype-getemail-followup",
+      "parameters": {
+        "setEmail": "cartoon_toon729@hotmail",
+        "setEmail.original": "cartoon_toon729@hotmail",
+        "setDetail": "เข้าเรียนไม่ได้",
+        "setDetail.original": "เข้าเรียนไม่ได้",
+        "showperson": {
+          "name": "ตูน"
+        },
+        "showperson.original": "ตูน",
+        "showemail": "cartoon_toon729@hotmail",
+        "showemail.original": "cartoon_toon729@hotmail",
+        "showdetail": "เข้าเรียนไม่ได้",
+        "showdetail.original": "เข้าเรียนไม่ได้"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/s1-4-othertype-getdetail-followup",
+      "lifespanCount": 1,
+      "parameters": {
+        "setDetail": "เข้าเรียนไม่ได้",
+        "setDetail.original": "เข้าเรียนไม่ได้",
+        "showperson": {
+          "name": "ตูน"
+        },
+        "showperson.original": "ตูน",
+        "showemail": "cartoon_toon729@hotmail",
+        "showemail.original": "cartoon_toon729@hotmail",
+        "showdetail": "เข้าเรียนไม่ได้",
+        "showdetail.original": "เข้าเรียนไม่ได้"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/person",
+      "parameters": {
+        "setPerson": {
+          "name": "ตูน"
+        },
+        "setPerson.original": "ตูน",
+        "setEmail": "cartoon_toon729@hotmail",
+        "setEmail.original": "cartoon_toon729@hotmail",
+        "setDetail": "เข้าเรียนไม่ได้",
+        "setDetail.original": "เข้าเรียนไม่ได้",
+        "showperson": {
+          "name": "ตูน"
+        },
+        "showperson.original": "ตูน",
+        "showemail": "cartoon_toon729@hotmail",
+        "showemail.original": "cartoon_toon729@hotmail",
+        "showdetail": "เข้าเรียนไม่ได้",
+        "showdetail.original": "เข้าเรียนไม่ได้"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/detail",
+      "parameters": {
+        "setDetail": "เข้าเรียนไม่ได้",
+        "setDetail.original": "เข้าเรียนไม่ได้",
+        "showperson": {
+          "name": "ตูน"
+        },
+        "showperson.original": "ตูน",
+        "showemail": "cartoon_toon729@hotmail",
+        "showemail.original": "cartoon_toon729@hotmail",
+        "showdetail": "เข้าเรียนไม่ได้",
+        "showdetail.original": "เข้าเรียนไม่ได้"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/email",
+      "parameters": {
+        "setEmail": "cartoon_toon729@hotmail",
+        "setEmail.original": "cartoon_toon729@hotmail",
+        "setDetail": "เข้าเรียนไม่ได้",
+        "setDetail.original": "เข้าเรียนไม่ได้",
+        "showperson": {
+          "name": "ตูน"
+        },
+        "showperson.original": "ตูน",
+        "showemail": "cartoon_toon729@hotmail",
+        "showemail.original": "cartoon_toon729@hotmail",
+        "showdetail": "เข้าเรียนไม่ได้",
+        "showdetail.original": "เข้าเรียนไม่ได้"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/__system_counters__",
+      "parameters": {
+        "no-input": 0.0,
+        "no-match": 0.0,
+        "showperson": {
+          "name": "ตูน"
+        },
+        "showperson.original": "ตูน",
+        "showemail": "cartoon_toon729@hotmail",
+        "showemail.original": "cartoon_toon729@hotmail",
+        "showdetail": "เข้าเรียนไม่ได้",
+        "showdetail.original": "เข้าเรียนไม่ได้"
+      }
+    }],
+    "intent": {
+      "name": "projects/ipstsupport-xgsgyb/agent/intents/42ccecb0-4a62-4b1b-81b7-e6538a9735d7",
+      "displayName": "S1-4-OtherType-getDetail - yes"
+    },
+    "intentDetectionConfidence": 1.0,
+    "languageCode": "th"
+  },
+  "originalDetectIntentRequest": {
+    "source": "line",
+    "payload": {
+      "data": {
+        "source": {
+          "type": "user",
+          "userId": "U267c3ab8e5323fbc932182923e0b6770"
+        },
+        "type": "message",
+        "message": {
+          "text": "ยืนยัน",
+          "type": "text",
+          "id": "11813077460335"
+        },
+        "replyToken": "8881306890f74e5584e84102afa07cc0",
+        "timestamp": "1587268640957"
+      }
+    }
+  },
+  "session": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837"
+}
+{"events":[{"type":"message","replyToken":"2c4df4c94ac148e1b7dac0b4ca18ea92","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587268692005,"mode":"active","message":{"type":"text","id":"11813081020238","text":"ต้องการแก้ไข"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"dd8d19bf67e541308320278eac97884e","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587268699980,"mode":"active","message":{"type":"text","id":"11813081580978","text":"ต้องการแก้ไข"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"8e9676ac2e5f478f90d0205057b91753","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587268703935,"mode":"active","message":{"type":"text","id":"11813081859999","text":"สกสกวสกกส"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"7c523e376b7d4dd783dd1407d16373f9","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587268708408,"mode":"active","message":{"type":"text","id":"11813082170991","text":"สดสดสด"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"9084ff0dc2fd4fe3852b1b3e02429e7a","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587268714555,"mode":"active","message":{"type":"text","id":"11813082598881","text":"วาเดส"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"008881b477b34c1faccdd930c3ff3cc2","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587268747495,"mode":"active","message":{"type":"text","id":"11813084901254","text":"เเอ"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"49589da0c0f34194a19112583397ce8f","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587268751610,"mode":"active","message":{"type":"text","id":"11813085196848","text":"สาสสา"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"60f00b711edb4274a5c217849a5becc5","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587268757742,"mode":"active","message":{"type":"text","id":"11813085622913","text":"ดดดกด้า"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"c8f8083acac34059a919e2e695089846","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587268774295,"mode":"active","message":{"type":"text","id":"11813086785267","text":"งงวววงวง"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"8da8567ddb41495b8edbb963b3666ee3","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587268786893,"mode":"active","message":{"type":"text","id":"11813087673504","text":"แสดงหัวข้อคำถาม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"5ac8024dac4f4bf68fae55621ab275d1","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269123027,"mode":"active","message":{"type":"text","id":"11813111843218","text":"แสดงหัวข้อคำถาม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"831aedc02c954e25ad5a72f65cae9007","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269126410,"mode":"active","message":{"type":"text","id":"11813112091275","text":"ปัญหาด้านอื่น"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"ef84dd2d6c1048caa34b2a7b9eb09239","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269137629,"mode":"active","message":{"type":"text","id":"11813112894832","text":"สุประดิษฐ์"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"c3933b73699442df8f6bf2d468876773","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269152660,"mode":"active","message":{"type":"text","id":"11813113975352","text":"catoon-toon928@gmail.com"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"a69d925d43a84dffb5c0852a0fc12aab","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269169189,"mode":"active","message":{"type":"text","id":"11813115181388","text":"ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"7703f264c1ae47948effa1eb44252169","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269178767,"mode":"active","message":{"type":"text","id":"11813115870956","text":"ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"8637fc5c4c1443d29fe8c7d15dd03bd1","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269184224,"mode":"active","message":{"type":"text","id":"11813116258776","text":"ยืนยัน"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{
+  "responseId": "08fe0a43-23fd-40f0-8c53-d6214e5a80c4-a14fa99c",
+  "queryResult": {
+    "queryText": "ยืนยัน",
+    "action": "OtherTypeConfirm",
+    "parameters": {
+      "showperson": {
+        "name": "สุประดิษฐ์"
+      },
+      "showemail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+      "showdetail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ"
+    },
+    "allRequiredParamsPresent": true,
+    "outputContexts": [{
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/s1-4-othertype-getemail-followup",
+      "parameters": {
+        "setEmail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "setEmail.original": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "setDetail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "setDetail.original": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showperson": {
+          "name": "สุประดิษฐ์"
+        },
+        "showperson.original": "สุประดิษฐ์",
+        "showemail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showemail.original": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showdetail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showdetail.original": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/s1-4-othertype-getdetail-followup",
+      "lifespanCount": 1,
+      "parameters": {
+        "setDetail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "setDetail.original": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showperson": {
+          "name": "สุประดิษฐ์"
+        },
+        "showperson.original": "สุประดิษฐ์",
+        "showemail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showemail.original": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showdetail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showdetail.original": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/person",
+      "parameters": {
+        "setPerson": {
+          "name": "สุประดิษฐ์"
+        },
+        "setPerson.original": "สุประดิษฐ์",
+        "setEmail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "setEmail.original": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "setDetail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "setDetail.original": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showperson": {
+          "name": "สุประดิษฐ์"
+        },
+        "showperson.original": "สุประดิษฐ์",
+        "showemail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showemail.original": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showdetail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showdetail.original": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/detail",
+      "parameters": {
+        "setDetail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "setDetail.original": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showperson": {
+          "name": "สุประดิษฐ์"
+        },
+        "showperson.original": "สุประดิษฐ์",
+        "showemail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showemail.original": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showdetail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showdetail.original": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/email",
+      "parameters": {
+        "setEmail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "setEmail.original": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "setDetail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "setDetail.original": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showperson": {
+          "name": "สุประดิษฐ์"
+        },
+        "showperson.original": "สุประดิษฐ์",
+        "showemail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showemail.original": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showdetail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showdetail.original": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/__system_counters__",
+      "parameters": {
+        "no-input": 0.0,
+        "no-match": 0.0,
+        "showperson": {
+          "name": "สุประดิษฐ์"
+        },
+        "showperson.original": "สุประดิษฐ์",
+        "showemail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showemail.original": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showdetail": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ",
+        "showdetail.original": "ตามไป ไม่เจอ หายเท่าไหร่ ก็คิดว่าเจอ"
+      }
+    }],
+    "intent": {
+      "name": "projects/ipstsupport-xgsgyb/agent/intents/42ccecb0-4a62-4b1b-81b7-e6538a9735d7",
+      "displayName": "S1-4-OtherType-getDetail - yes"
+    },
+    "intentDetectionConfidence": 1.0,
+    "languageCode": "th"
+  },
+  "originalDetectIntentRequest": {
+    "source": "line",
+    "payload": {
+      "data": {
+        "message": {
+          "text": "ยืนยัน",
+          "type": "text",
+          "id": "11813116258776"
+        },
+        "replyToken": "8637fc5c4c1443d29fe8c7d15dd03bd1",
+        "timestamp": "1587269184224",
+        "source": {
+          "userId": "U267c3ab8e5323fbc932182923e0b6770",
+          "type": "user"
+        },
+        "type": "message"
+      }
+    }
+  },
+  "session": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837"
+}
+{"events":[{"type":"message","replyToken":"0426abdcbff94b49b99d908fbe8bbfb6","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269226827,"mode":"active","message":{"type":"text","id":"11813119328480","text":"แสดงหัวข้อคำถาม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"f58a24a55a5241bda1378abe0c184093","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269229940,"mode":"active","message":{"type":"text","id":"11813119544777","text":"ปัญหาด้านอื่น"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"3037746010634e0f906e2522760866fe","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269233467,"mode":"active","message":{"type":"text","id":"11813119797846","text":"เกม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"0b0d3eeae0a2425ba8a1917021704846","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269248158,"mode":"active","message":{"type":"text","id":"11813120856960","text":"kkk"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"9844021cb38a41648c4f7d3a1d668167","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269254773,"mode":"active","message":{"type":"text","id":"11813121327444","text":"แสดงหัวข้อคำถาม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"2da4ce408a0848308dcc343e626108a2","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269258699,"mode":"active","message":{"type":"text","id":"11813121612558","text":"ปัญหาด้านอื่น"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"e4994544d2564895bbfd904a0344df2b","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269266912,"mode":"active","message":{"type":"text","id":"11813122204640","text":"g เกม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"f5a6a2dab85543479328709778464c7a","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269276488,"mode":"active","message":{"type":"text","id":"11813122893437","text":"แสดงหัวข้อคำถาม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"3ca5ef3461f84562a6470882a438af18","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269280532,"mode":"active","message":{"type":"text","id":"11813123184603","text":"ปัญหาด้านอื่น"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"d97110317a1744ed8073150907c50381","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269290246,"mode":"active","message":{"type":"text","id":"11813123876675","text":"สุประดิษฐ์ เกมส์"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"2f8d4c499006438c99a55d7ad90a7216","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269295861,"mode":"active","message":{"type":"text","id":"11813124276137","text":"tt@gmail.com"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"bdaca22c6232445a86bc32f7127d28fd","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269306315,"mode":"active","message":{"type":"text","id":"11813125023652","text":"เกมส หรรษา สนุก"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"70088e11e3cd4248a47c182325a65e2f","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269309793,"mode":"active","message":{"type":"text","id":"11813125270823","text":"ยืนยัน"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{
+  "responseId": "a8a5ced3-f14a-4ebc-abe7-c4f7421808df-a14fa99c",
+  "queryResult": {
+    "queryText": "ยืนยัน",
+    "action": "OtherTypeConfirm",
+    "parameters": {
+      "showperson": {
+        "name": "สุประดิษฐ์"
+      },
+      "showemail": "tt@gmail.com",
+      "showdetail": "เกมส หรรษา สนุก"
+    },
+    "allRequiredParamsPresent": true,
+    "outputContexts": [{
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/s1-4-othertype-getemail-followup",
+      "parameters": {
+        "setEmail": "tt@gmail.com",
+        "setEmail.original": "tt@gmail.com",
+        "setDetail": "เกมส หรรษา สนุก",
+        "setDetail.original": "เกมส หรรษา สนุก",
+        "showperson": {
+          "name": "สุประดิษฐ์"
+        },
+        "showperson.original": "สุประดิษฐ์",
+        "showemail": "tt@gmail.com",
+        "showemail.original": "tt@gmail.com",
+        "showdetail": "เกมส หรรษา สนุก",
+        "showdetail.original": "เกมส หรรษา สนุก"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/s1-4-othertype-getdetail-followup",
+      "lifespanCount": 1,
+      "parameters": {
+        "setDetail": "เกมส หรรษา สนุก",
+        "setDetail.original": "เกมส หรรษา สนุก",
+        "showperson": {
+          "name": "สุประดิษฐ์"
+        },
+        "showperson.original": "สุประดิษฐ์",
+        "showemail": "tt@gmail.com",
+        "showemail.original": "tt@gmail.com",
+        "showdetail": "เกมส หรรษา สนุก",
+        "showdetail.original": "เกมส หรรษา สนุก"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/person",
+      "parameters": {
+        "setPerson": {
+          "name": "สุประดิษฐ์"
+        },
+        "setPerson.original": "สุประดิษฐ์",
+        "setEmail": "tt@gmail.com",
+        "setEmail.original": "tt@gmail.com",
+        "setDetail": "เกมส หรรษา สนุก",
+        "setDetail.original": "เกมส หรรษา สนุก",
+        "showperson": {
+          "name": "สุประดิษฐ์"
+        },
+        "showperson.original": "สุประดิษฐ์",
+        "showemail": "tt@gmail.com",
+        "showemail.original": "tt@gmail.com",
+        "showdetail": "เกมส หรรษา สนุก",
+        "showdetail.original": "เกมส หรรษา สนุก"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/detail",
+      "parameters": {
+        "setDetail": "เกมส หรรษา สนุก",
+        "setDetail.original": "เกมส หรรษา สนุก",
+        "showperson": {
+          "name": "สุประดิษฐ์"
+        },
+        "showperson.original": "สุประดิษฐ์",
+        "showemail": "tt@gmail.com",
+        "showemail.original": "tt@gmail.com",
+        "showdetail": "เกมส หรรษา สนุก",
+        "showdetail.original": "เกมส หรรษา สนุก"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/email",
+      "parameters": {
+        "setEmail": "tt@gmail.com",
+        "setEmail.original": "tt@gmail.com",
+        "setDetail": "เกมส หรรษา สนุก",
+        "setDetail.original": "เกมส หรรษา สนุก",
+        "showperson": {
+          "name": "สุประดิษฐ์"
+        },
+        "showperson.original": "สุประดิษฐ์",
+        "showemail": "tt@gmail.com",
+        "showemail.original": "tt@gmail.com",
+        "showdetail": "เกมส หรรษา สนุก",
+        "showdetail.original": "เกมส หรรษา สนุก"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/__system_counters__",
+      "parameters": {
+        "no-input": 0.0,
+        "no-match": 0.0,
+        "showperson": {
+          "name": "สุประดิษฐ์"
+        },
+        "showperson.original": "สุประดิษฐ์",
+        "showemail": "tt@gmail.com",
+        "showemail.original": "tt@gmail.com",
+        "showdetail": "เกมส หรรษา สนุก",
+        "showdetail.original": "เกมส หรรษา สนุก"
+      }
+    }],
+    "intent": {
+      "name": "projects/ipstsupport-xgsgyb/agent/intents/42ccecb0-4a62-4b1b-81b7-e6538a9735d7",
+      "displayName": "S1-4-OtherType-getDetail - yes"
+    },
+    "intentDetectionConfidence": 1.0,
+    "languageCode": "th"
+  },
+  "originalDetectIntentRequest": {
+    "source": "line",
+    "payload": {
+      "data": {
+        "source": {
+          "type": "user",
+          "userId": "U267c3ab8e5323fbc932182923e0b6770"
+        },
+        "type": "message",
+        "message": {
+          "text": "ยืนยัน",
+          "type": "text",
+          "id": "11813125270823"
+        },
+        "replyToken": "70088e11e3cd4248a47c182325a65e2f",
+        "timestamp": "1587269309793"
+      }
+    }
+  },
+  "session": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837"
+}
+{"events":[{"type":"message","replyToken":"fbeb1efec978498dbbd979847b4fcaa6","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269405899,"mode":"active","message":{"type":"text","id":"11813132165057","text":"แสดงหัวข้อคำถาม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"227e94e16ead4ba7be7f4bfcb4ba9e9a","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269414232,"mode":"active","message":{"type":"text","id":"11813132763742","text":"สุประดิษฐ์ เกม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"5efbe80714e241fdab6efc752d9edcb2","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269425666,"mode":"active","message":{"type":"text","id":"11813133583741","text":"ปัญหาด้านอื่น"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"0cb05ac0fe3c4f1688b238a0caf30bcd","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269429649,"mode":"active","message":{"type":"text","id":"11813133858981","text":"สุประดิษฐ์ เกม"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"bb73ea30a75443e39cf7e0211000ce7a","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269433783,"mode":"active","message":{"type":"text","id":"11813134160770","text":"ndndsjnsjs"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"9f0e277576ec4bcdad413f54565cf9e8","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269438506,"mode":"active","message":{"type":"text","id":"11813134501693","text":"jejnfjfkskskskwowopwoqiqiqiiq"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{"events":[{"type":"message","replyToken":"f172f0c06ac44e49841538fdc7a21f12","source":{"userId":"U267c3ab8e5323fbc932182923e0b6770","type":"user"},"timestamp":1587269441738,"mode":"active","message":{"type":"text","id":"11813134721318","text":"ยืนยัน"}}],"destination":"U582528c0f933ccdf308d277ee14fb4a9"}
+{
+  "responseId": "94e5eeac-c48d-4385-8765-e53446fe2fa1-a14fa99c",
+  "queryResult": {
+    "queryText": "ยืนยัน",
+    "action": "OtherTypeConfirm",
+    "parameters": {
+      "showperson": {
+        "name": "สุประดิษฐ์"
+      },
+      "showemail": "ndndsjnsjs",
+      "showdetail": "jejnfjfkskskskwowopwoqiqiqiiq"
+    },
+    "allRequiredParamsPresent": true,
+    "outputContexts": [{
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/s1-4-othertype-getemail-followup",
+      "parameters": {
+        "setEmail": "ndndsjnsjs",
+        "setEmail.original": "ndndsjnsjs",
+        "setDetail": "jejnfjfkskskskwowopwoqiqiqiiq",
+        "setDetail.original": "jejnfjfkskskskwowopwoqiqiqiiq",
+        "showperson": {
+          "name": "สุประดิษฐ์"
+        },
+        "showperson.original": "สุประดิษฐ์",
+        "showemail": "ndndsjnsjs",
+        "showemail.original": "ndndsjnsjs",
+        "showdetail": "jejnfjfkskskskwowopwoqiqiqiiq",
+        "showdetail.original": "jejnfjfkskskskwowopwoqiqiqiiq"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/s1-4-othertype-getdetail-followup",
+      "lifespanCount": 1,
+      "parameters": {
+        "setDetail": "jejnfjfkskskskwowopwoqiqiqiiq",
+        "setDetail.original": "jejnfjfkskskskwowopwoqiqiqiiq",
+        "showperson": {
+          "name": "สุประดิษฐ์"
+        },
+        "showperson.original": "สุประดิษฐ์",
+        "showemail": "ndndsjnsjs",
+        "showemail.original": "ndndsjnsjs",
+        "showdetail": "jejnfjfkskskskwowopwoqiqiqiiq",
+        "showdetail.original": "jejnfjfkskskskwowopwoqiqiqiiq"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/person",
+      "parameters": {
+        "setPerson": {
+          "name": "สุประดิษฐ์"
+        },
+        "setPerson.original": "สุประดิษฐ์",
+        "setEmail": "ndndsjnsjs",
+        "setEmail.original": "ndndsjnsjs",
+        "setDetail": "jejnfjfkskskskwowopwoqiqiqiiq",
+        "setDetail.original": "jejnfjfkskskskwowopwoqiqiqiiq",
+        "showperson": {
+          "name": "สุประดิษฐ์"
+        },
+        "showperson.original": "สุประดิษฐ์",
+        "showemail": "ndndsjnsjs",
+        "showemail.original": "ndndsjnsjs",
+        "showdetail": "jejnfjfkskskskwowopwoqiqiqiiq",
+        "showdetail.original": "jejnfjfkskskskwowopwoqiqiqiiq"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/detail",
+      "parameters": {
+        "setDetail": "jejnfjfkskskskwowopwoqiqiqiiq",
+        "setDetail.original": "jejnfjfkskskskwowopwoqiqiqiiq",
+        "showperson": {
+          "name": "สุประดิษฐ์"
+        },
+        "showperson.original": "สุประดิษฐ์",
+        "showemail": "ndndsjnsjs",
+        "showemail.original": "ndndsjnsjs",
+        "showdetail": "jejnfjfkskskskwowopwoqiqiqiiq",
+        "showdetail.original": "jejnfjfkskskskwowopwoqiqiqiiq"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/email",
+      "parameters": {
+        "setEmail": "ndndsjnsjs",
+        "setEmail.original": "ndndsjnsjs",
+        "setDetail": "jejnfjfkskskskwowopwoqiqiqiiq",
+        "setDetail.original": "jejnfjfkskskskwowopwoqiqiqiiq",
+        "showperson": {
+          "name": "สุประดิษฐ์"
+        },
+        "showperson.original": "สุประดิษฐ์",
+        "showemail": "ndndsjnsjs",
+        "showemail.original": "ndndsjnsjs",
+        "showdetail": "jejnfjfkskskskwowopwoqiqiqiiq",
+        "showdetail.original": "jejnfjfkskskskwowopwoqiqiqiiq"
+      }
+    }, {
+      "name": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837/contexts/__system_counters__",
+      "parameters": {
+        "no-input": 0.0,
+        "no-match": 0.0,
+        "showperson": {
+          "name": "สุประดิษฐ์"
+        },
+        "showperson.original": "สุประดิษฐ์",
+        "showemail": "ndndsjnsjs",
+        "showemail.original": "ndndsjnsjs",
+        "showdetail": "jejnfjfkskskskwowopwoqiqiqiiq",
+        "showdetail.original": "jejnfjfkskskskwowopwoqiqiqiiq"
+      }
+    }],
+    "intent": {
+      "name": "projects/ipstsupport-xgsgyb/agent/intents/42ccecb0-4a62-4b1b-81b7-e6538a9735d7",
+      "displayName": "S1-4-OtherType-getDetail - yes"
+    },
+    "intentDetectionConfidence": 1.0,
+    "languageCode": "th"
+  },
+  "originalDetectIntentRequest": {
+    "source": "line",
+    "payload": {
+      "data": {
+        "replyToken": "f172f0c06ac44e49841538fdc7a21f12",
+        "timestamp": "1587269441738",
+        "source": {
+          "type": "user",
+          "userId": "U267c3ab8e5323fbc932182923e0b6770"
+        },
+        "type": "message",
+        "message": {
+          "id": "11813134721318",
+          "text": "ยืนยัน",
+          "type": "text"
+        }
+      }
+    }
+  },
+  "session": "projects/ipstsupport-xgsgyb/agent/sessions/57c28e1c-85f0-31ce-a36c-6b15323b6837"
+}
