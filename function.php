@@ -34,6 +34,9 @@ function getContent($datas){
 
 // ส่งอีเมลไปยังปลายทาง
 function sendEmail(){
+  
+    require_once 'vendor/autoload.php';
+
     $htmlbody = 'แสดงเนื้อหาเมลเป็นแบบ <b>html</b>';
     
     $Mailer = new \PHPMailer\PHPMailer\PHPMailer(true);
